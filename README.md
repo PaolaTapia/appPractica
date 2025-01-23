@@ -1,4 +1,12 @@
 # React + TypeScript + Vite
+- Para correr el proyecto utiliza: 
+```npm run dev```
+
+  ➜  Local:   http://localhost:5173/
+
+  ➜ ``` Network: use --host to expose ```
+
+  ➜ ``` press h + enter to show help ```
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
